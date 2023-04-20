@@ -1,1 +1,0 @@
-Step 1 - Download Python3 and install all required libraries used Ð 1. numpy2. matplotlib3. PIL4. cv2Step 2 - Open the Notebook and press Run All. (Make sure you have all installed libraries and image path correct)First plot is for Q5- Canny Edge detection robustness.Second plot is for Q6 Step 1 Ð Gaussian blurring.Thirst plot is Q6 Step 4 Ð Test.
